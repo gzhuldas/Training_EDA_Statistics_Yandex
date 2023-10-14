@@ -3,7 +3,7 @@
 ### Goal: 
 Assisted Yandex marketing team to analyze of free advertisements for vehicles are published every day on Yandex Marketplace. The goal was to study data collected over the last few years and determine which factors influence the price of a vehicle.
 
-### The following tasks have been completed:
+### The following tasks were completed:
 1. Studied the following parameters: price, vehicle's age when the ad was placed, mileage, number of cylinders, and condition. Plotted histograms for each of these parameters. Studied how outliers affect the form and readability of the histograms.
 2. Determined the upper limits of outliers, removed the outliers and store them in a separate DataFrame, and continued to work with the filtered data.
 3. Used the filtered data to plot new histograms. Compared them with the earlier histograms (the ones that included outliers). Drew conclusions for each histogram.
