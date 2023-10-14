@@ -21,3 +21,5 @@ Assisted Yandex team in the analysis of the data from a real estate agency. It i
 ![image](https://github.com/gzhuldas/Training_EDA_Statistics_Yandex/assets/72769986/43804442-5e42-4232-a585-35fee9b01c36)
 
 
+### Conclusion
+In Saint-Petersburg and its region average apartment area is 30 square m.  The majority of apartments are priced at 1000000 - 5000000 rubles. The second most common price category is 'expensive' which ranges from 5000000-15000000 rubles. Most of the apartments have 2 rooms and a 2,7 m ceiling height. An apartment can be sold within a period of maximum 500 days. The average period is shorter, about 156 days. According to the results, the prices n the whole region only correlate with area. Top 10 most popular locations were identified, Saint-Petersburg city has the highest apartment prices. The downtown border of S-P is calculated to be approximately 3 km. The apartments in these area were studied. There is a correlation between prices and apartment areas, all other parameters do not seem to be relevant.
