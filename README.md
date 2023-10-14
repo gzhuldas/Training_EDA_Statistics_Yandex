@@ -1,7 +1,7 @@
 ## Training Project (online marketplace)
 
 ### Goal: 
-Assisted Yandex team in the analysys of the data from a real estate agency. It is an archive of sales ads for realty in St. Petersburg, Russia, and the surrounding areas collected over the past few years. The goal is to learn how to determine the market value of real estate properties and define the parameters. This project is useful for building an automated system that is capable of detecting anomalies and fraudulent activity.
+Assisted Yandex team in the analysis of the data from a real estate agency. It is an archive of sales ads for realty in St. Petersburg, Russia, and the surrounding areas collected over the past few years. The goal is to learn how to determine the market value of real estate properties and define the parameters. This project is useful for building an automated system that is capable of detecting anomalies and fraudulent activity.
 
 ### The following tasks were completed:
 1. Studied the following parameters: price, vehicle's age when the ad was placed, mileage, number of cylinders, and condition. Plotted histograms for each of these parameters. Studied how outliers affect the form and readability of the histograms.
